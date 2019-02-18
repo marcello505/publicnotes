@@ -4,6 +4,7 @@ author:
 title: Programs i use
 ---
 
+-   [Table of Contents](#table-of-contents)
 -   [Multimedia](#multimedia)
     -   [Home Cinema](#home-cinema)
     -   [Video and Movies](#video-and-movies)
@@ -14,6 +15,9 @@ title: Programs i use
 -   [Image Viewer](#image-viewer)
 -   [Utilities](#utilities)
 
+Table of Contents
+=================
+
 Multimedia
 ==========
 
@@ -23,7 +27,7 @@ Home Cinema
 [Kodi](https://kodi.tv/) - No introduction needed, highly customizeble
 and widely used on mutiple platforms.\
 [Emby](https://emby.media/) - I use Emby to manage my Media library and
-i have the Emby Add-on on Kodi so it automatically syncs.\
+i have the Emby Add-on on Kodi so it automatically syncs.
 
 Video and Movies
 ----------------
@@ -32,7 +36,7 @@ Video and Movies
 configuration in the config file. Just drag and drop.\
 [MPC-HC]() (Windows) - What i used before MPV, pretty good with options
 for filters and such if you care to install them. I prefer it over VLC
-but not as great as MPV.\
+but not as great as MPV.
 
 Audio and Music
 ---------------
@@ -43,7 +47,7 @@ doesn't rely on a server backend.\
 looks nice by default and has mutiple skins pre-packed.\
 [Foobar2000]() (Windows) - What i used in the past, extremely
 customizible and extremely light on resources. May take some time to set
-up according to your preferences.\
+up according to your preferences.
 
 Torrenting
 ==========
@@ -52,14 +56,14 @@ Torrenting
 is also reccomended.\
 [Deluge]()\
 [Transmission]() - Used to be Linux only but recently got a Windows
-version.\
+version.
 
 Password Manager
 ================
 
 [Keepass XC]() - Also has windows version.\
 [Keepass 2]() (Windows) - Able to be run on Linux with mono.\
-[Keepass2Android]() (Android)\
+[Keepass2Android]() (Android)
 
 Screenshot Program
 ==================
@@ -70,7 +74,7 @@ area and it will instantly upload it and copy the link for you to
 paste.\
 [ShareX]() (Windows) - Pretty customizable screenshot program. Also has
 the option to record .gifs but i never got it working when i was using
-it.\
+it.
 
 Image Viewer
 ============
@@ -80,11 +84,11 @@ image locations.\
 [Honeyview]() (Windows) - Fast image viewer with nice options for
 customization. If you are using the default windows image viewer then
 you're a cuck and you should get either Honeyview or a different fast
-image viewer.\
+image viewer.
 
 Utilities
 =========
 
 [Everything]() - Program to search your files, way faster than any stock
 windows search engine. Handy if you need to find a file system wide.
-Helped me find stuff that i thought was lost forever.\
+Helped me find stuff that i thought was lost forever.
