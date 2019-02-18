@@ -82,7 +82,17 @@ Honeyview or a different fast image viewer.
 Utilities
 =========
 
-[Everything](https://www.voidtools.com/) - Program to search your files,
-way faster than any stock windows search engine. Handy if you need to
-find a file system wide. Helped me find stuff that i thought was lost
-forever.
+[Fish](https://fishshell.com/) - Bash replacement with auto-suggestions
+and other helpfull features. Don't replace bash with it just add
+\"fish\" at the beginning of your .bashrc file.\
+[Pywal](https://github.com/dylanaraps/pywal) - Amazing program that
+changes the colourscheme of your computer based on the background. With
+a bit of work you can make it change the colours of almost every program
+you use on a daily basis.\
+[Neofetch](https://github.com/dylanaraps/neofetch) - Displays your
+system information in a nice summary + an ascii art picture of your
+distrobutions logo. Has the option to display a custom picture.\
+[Everything](https://www.voidtools.com/) (Windows) - Program to search
+your files, way faster than any stock windows search engine. Handy if
+you need to find a file system wide. Helped me find stuff that i thought
+was lost forever.
