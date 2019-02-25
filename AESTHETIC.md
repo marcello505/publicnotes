@@ -1,8 +1,8 @@
 Aesthetic
 =========
 
-Here are some ideas to increase the (((*A E S T H E T I C*))) value of
-your desktop which i may or may not have used myself.
+Here are some ideas to increase the *A E S T H E T I C* value of your
+desktop which i may or may not have used myself.
 
 Any OS
 ======
