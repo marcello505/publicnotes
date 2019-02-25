@@ -17,18 +17,18 @@ Windows only
 
 **Magi Drives** - Change the names of your drives to that of the Magi
 supercomputer from Neon Genesis Evangelion. So that would be: Casper,
-Balthasar and Melchior. Assign fitting drive letters as so (so C: for
-Casper and M: for Melchior). These names btw are based on the 3 kings
-that came to visit jesus when he was just born, so if you're into
-religious stories/history i suppose you could also use this.
+Balthasar and Melchior. Assign fitting drive letters as well (so C: for
+Casper and M: for Melchior). These names are based on the 3 kings that
+came to visit jesus when he was born, so if you're into religious
+stories/history i suppose you could also use this.
 
 Linux only
 ==========
 
 **Animal Crossing Backgrounds** - In Animal Crossing you have a specific
-song that will at every hour of the day, so in total 24 songs. You can
-do the same for your desktop but with backgrounds. This requires a bit
-of work since you need to make 24 different backgrounds and you also
+song that will play at every hour of the day, so in total 24 songs. You
+can do the same for your desktop but with backgrounds. This requires a
+bit of work since you need to make 24 different backgrounds and you also
 need to **COPE** with the fact that you probably won't see some of the
 backgrounds planned for ludricrous times (5AM for example). But the devs
 of Animal Crossing probably thought the same when they did the same for
