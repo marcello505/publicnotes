@@ -7,15 +7,15 @@ your desktop which i may or may not have used myself.
 Any OS
 ======
 
-Mythological Hostnames - Change the Hostname (or computername as it's
-known in windows terms) to that of Mythological beings. Personally i
-name desktop devices after mythological gods and mobile devices after
+**Mythological Hostnames** - Change the Hostname (or computername as
+it's known in windows terms) to that of Mythological beings. Personally
+i name desktop devices after mythological gods and mobile devices after
 mythological creatures but you can do it however you want.
 
 Windows only
 ============
 
-Magi Drives - Change the names of your drives to that of the Magi
+**Magi Drives** - Change the names of your drives to that of the Magi
 supercomputer from Neon Genesis Evangelion. So that would be: Casper,
 Balthasar and Melchior. Assign fitting drive letters as so (so C: for
 Casper and M: for Melchior). These names btw are based on the 3 kings
@@ -25,7 +25,7 @@ religious stories/history i suppose you could also use this.
 Linux only
 ==========
 
-Animal Crossing Backgrounds - In Animal Crossing you have a specific
+**Animal Crossing Backgrounds** - In Animal Crossing you have a specific
 song that will at every hour of the day, so in total 24 songs. You can
 do the same for your desktop but with backgrounds. This requires a bit
 of work since you need to make 24 different backgrounds and you also
