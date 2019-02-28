@@ -95,4 +95,8 @@ distrobutions logo. Has the option to display a custom picture.\
 [Everything](https://www.voidtools.com/) (Windows) - Program to search
 your files, way faster than any stock windows search engine. Handy if
 you need to find a file system wide. Helped me find stuff that i thought
-was lost forever.
+was lost forever.\
+[Chocolatey](https://chocolatey.org/) (Windows) - Package manager for
+windows. Install, update and manage your applications the same way you
+would on Linux. Haven't tried it out yet myself but looks pretty damn
+promising.
