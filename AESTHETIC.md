@@ -9,8 +9,9 @@ Any OS
 
 **Mythological Hostnames** - Change the Hostname (or computername as
 it's known in windows terms) to that of Mythological beings. Personally
-i name desktop devices after mythological gods and mobile devices after
-mythological creatures but you can do it however you want.
+i name desktop devices after mythological gods or significant characters
+in mythology and mobile devices after mythological creatures but you can
+do it however you want.
 
 Windows only
 ============
