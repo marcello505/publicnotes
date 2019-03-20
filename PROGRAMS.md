@@ -83,8 +83,9 @@ Utilities
 =========
 
 [Fish](https://fishshell.com/) - Bash replacement with auto-suggestions
-and other helpfull features. Don't replace bash with it just add
-\"fish\" at the beginning of your .bashrc file.\
+and other helpfull features. Don't replace bash with it just have fish
+auto launch whenever you open your terminal emulator. Having fish in
+your bashrc file can also work but it can have issues.\
 [Pywal](https://github.com/dylanaraps/pywal) - Amazing program that
 changes the colourscheme of your computer based on the background. With
 a bit of work you can make it change the colours of almost every program
