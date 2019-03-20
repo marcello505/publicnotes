@@ -7,6 +7,6 @@ Same part but for anime girls, added bonus of having some supplementary
 text to go along with it.\
 [b-ok.xyz](https://b-ok.xyz/) - Giant resource for downloading free
 e-books.\
-[Invidious](https://invidio.us/) - Open-Source front-end for YouTube.
+[Invidio.us](https://invidio.us/) - Open-Source front-end for YouTube.
 Has the ability to play youtube videos without connecting to google's
 servers at all if you set the quality to \"Dash\".
