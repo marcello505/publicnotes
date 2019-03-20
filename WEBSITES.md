@@ -9,4 +9,4 @@ text to go along with it.\
 e-books.\
 [Invidious](https://invidio.us/) - Open-Source front-end for YouTube.
 Has the ability to play youtube videos without connecting to google's
-servers at all if you set the quality to \"Dash\".\
+servers at all if you set the quality to \"Dash\".
