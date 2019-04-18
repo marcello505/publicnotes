@@ -100,4 +100,10 @@ was lost forever.\
 [Chocolatey](https://chocolatey.org/) (Windows) - Package manager for
 windows. Install, update and manage your applications the same way you
 would on Linux. Haven't tried it out yet myself but looks pretty damn
-promising.
+promising.\
+[DBAN (Darik's Boot and Nuke)](https://dban.org/) - Even if you delete
+everything off a drive, some stuff can still be recovered using disk
+recovery software. If you're ever selling a old harddrive it's a good
+idea to completly wipe everything. Burn the ISO to a USB and boot into
+it, select DoD for method and select the amount of passes. One pass is
+fine. Three if you're paranoid or have particularly sensitive data.
