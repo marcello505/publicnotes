@@ -99,7 +99,7 @@ you need to find a file system wide. Helped me find stuff that i thought
 was lost forever.\
 [Chocolatey](https://chocolatey.org/) (Windows) - Package manager for
 windows. Install, update and manage your applications the same way you
-would on Linux. Haven't tried it out yet myself but looks pretty damn
+would on Linux. Haven't tried it out yet myself but looks fairly
 promising.\
 [DBAN (Darik's Boot and Nuke)](https://dban.org/) - Even if you delete
 everything off a drive, some stuff can still be recovered using disk
