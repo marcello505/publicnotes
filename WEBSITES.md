@@ -12,3 +12,4 @@ Has the ability to play youtube videos without connecting to google's
 servers at all if you set the quality to \"Dash\".\
 [OverTheWire.org](http://overthewire.org/) - A bunch of puzzles all
 centered around mastering the unix/bash CLI. Highly reccomended!
+[Home Assistant](https://www.home-assistant.io/) - Website hosting an open-source project for a self-hosted smart home solution.
