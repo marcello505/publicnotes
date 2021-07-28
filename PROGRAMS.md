@@ -16,8 +16,7 @@ Home Cinema
 
 [Kodi](https://kodi.tv/) - No introduction needed, highly customizeble
 and widely used on mutiple platforms.\
-[Emby](https://emby.media/) - I use Emby to manage my Media library and
-i have the Emby Add-on on Kodi so it automatically syncs.
+[Emby](https://emby.media/) - I don't use Emby anymore, you need a subscription to make the most out of it.
 
 Video and Movies
 ----------------
