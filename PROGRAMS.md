@@ -106,4 +106,5 @@ recovery software. If you're ever selling a old harddrive it's a good
 idea to completly wipe everything. Burn the ISO to a USB and boot into
 it, select DoD for method and select the amount of passes. One pass is
 fine. Three if you're paranoid or have particularly sensitive data.\
-[SCRCPY](https://github.com/Genymobile/scrcpy) - Ez android screen mirroring.
+[SCRCPY](https://github.com/Genymobile/scrcpy) - Ez android screen mirroring.\
+[AutoHotkey](https://www.autohotkey.com/) - (Windows) Open-source macro program, requires scripting.
