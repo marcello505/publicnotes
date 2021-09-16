@@ -109,4 +109,5 @@ fine. Three if you're paranoid or have particularly sensitive data.\
 [SCRCPY](https://github.com/Genymobile/scrcpy) - Ez android screen mirroring.\
 [AutoHotkey](https://www.autohotkey.com/) - (Windows) Open-source macro program, requires scripting.\
 [Redo Rescue](https://github.com/redorescue/redorescue) - Live OS to backup/clone/restore disks among other things.\
-[Clonezilla](https://github.com/stevenshiau/clonezilla) - Same as Redo Rescue but older and text-based, has a server version as well.
+[Clonezilla](https://github.com/stevenshiau/clonezilla) - Same as Redo Rescue but older and text-based, has a server version as well.\
+[RescueZilla](https://github.com/rescuezilla/rescuezilla) - Pretty GUI for CloneZilla.\
