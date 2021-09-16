@@ -108,5 +108,5 @@ it, select DoD for method and select the amount of passes. One pass is
 fine. Three if you're paranoid or have particularly sensitive data.\
 [SCRCPY](https://github.com/Genymobile/scrcpy) - Ez android screen mirroring.\
 [AutoHotkey](https://www.autohotkey.com/) - (Windows) Open-source macro program, requires scripting.\
-[Redo Rescue](http://redorescue.com/) - Live OS to backup/clone/restore disks among other things.\
-[Clonezilla](https://clonezilla.org/) - Same as Redo Rescue but older and text-based, has a server version as well.
+[Redo Rescue](https://github.com/redorescue/redorescue) - Live OS to backup/clone/restore disks among other things.\
+[Clonezilla](https://github.com/stevenshiau/clonezilla) - Same as Redo Rescue but older and text-based, has a server version as well.
